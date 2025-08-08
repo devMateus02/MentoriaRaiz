@@ -51,6 +51,13 @@ export default function Precheckout() {
           Nos vemos do outro lado. É hora de construir com raiz e com verdade.
         </p>
 
+        <div className="pro-scale scale-[.9] mt-16 border-1 border-yellow-600 p-8 rounded-[6px] font-light text-center">
+          <p>
+          <span className="font-semibold ">Promoção:</span> de <span className="font-medium line-through">R$ 3.597</span> para <span className="font-medium">2.997</span> para os <span className="text-[18px] font-medium">"5 primeiros inscritos"</span>
+          </p>
+          <p className="text-yellow-600 font-semibold text-[10px]"><span className="text-[12px]">Atenção:</span> promoção valida apenas para individual</p>
+        </div>
+
         <button
           onClick={() => setOpenForm(true)}
           className="text-[18px] text-white font-semibold p-3 cursor-pointer bg-gradient-to-bl from-[#8a6c21] to-[#886e08] mt-10 mb-10 rounded-[10px]"

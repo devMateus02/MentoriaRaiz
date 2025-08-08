@@ -89,3 +89,21 @@
     transform: translateY(0);
   }
 }
+
+
+@keyframes anim6 {
+   0% {
+       scale: .9;
+   }
+   50%{
+    scale: 1;
+   }
+   100%{
+    scale: .9;
+   }
+}
+
+
+.pro-scale{
+  animation: anim6 1.5s linear infinite;
+}

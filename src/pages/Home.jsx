@@ -69,10 +69,10 @@ export default function Home() {
         <div className=" sm:w-[50%] px-2.5">
              <h3 data-aos='fade-right' data-aos-delay='150' className=" inline-block text-[#FEC300] text-[12px] p-[8px] mb-4 rounded-[15px] transition-all duration-100 ease-in-out border-1 border-[#FEC300] bg-[rgb(254,195,0,10%)] hover:bg-[rgb(254,195,0,25%)] focus:bg-[rgb(254,195,0,25%)]">Sobre a mentora</h3>
 
-             <h2 data-aos='fade-right' data-aos-delay='20' className="text-4xl font-semibold mb-5">Thalita Eloah</h2>
+             <h2 data-aos='fade-right' data-aos-delay='20' className="text-4xl font-semibold mb-5">Thalyta Eloah</h2>
 
              <p data-aos='fade-right' data-aos-delay='80' className="mb-5 border-l-3 border-[#FEC300] sm:ml-3 p-3 text-[18px] text-[#FEC300] sm:w-[40ch]  " >
-                "Raiz no Direito. Realidade no Empreender. Verdade na Caminhada."
+                "Raiz no Direito. Realidade no Empreendedorismo. Verdade na Caminhada."
              </p>
 
              <div className="text-left  sm:w-[70vw] text-[#ffffff] sm:ml-3">
@@ -97,7 +97,7 @@ export default function Home() {
        <section className="bg-[#4d0808] text-center pt-15 pb-15 px-2" id="comoFunciona">
           <h2 data-aos='fade-right' data-aos-delay='150' className=" text-2xl sm:text-4xl font-semibold mb-5 ">Como funciona a mentoria "Raiz"</h2>
           <p data-aos='fade-left' data-aos-delay='250' className="text-[#CCCCCC] mb-5">
-               <span className="font-semibold"> Duração:</span> 4 meses – de 1º de setembro a dezembro
+               <span className="font-semibold"> Duração:</span> 3 meses – de 11 de setembro a 11 dezembro
           </p>
           <p data-aos='fade-right' data-aos-delay='350' className="text-[#CCCCCC] mb-5">
                <span className="font-semibold"> Formato:</span> Online, com encontros ao vivo em grupo e individuais.
@@ -143,7 +143,7 @@ export default function Home() {
 
                     <div className="flex flex-row gap-1.5 items-center justify-center w-[350px]">
                         <img className="w-[25px]" src="Planner.png" alt="Data de início"/>
-                        <p className="font-medium">Início: 1º de setembro</p>
+                        <p className="font-medium">Início: 11 de setembro</p>
                     </div>
 
                     <div className="flex flex-row gap-1.5 items-center justify-center w-[350px]">
