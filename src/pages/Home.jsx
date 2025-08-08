@@ -1,6 +1,6 @@
 import React from "react";
 import "./Home.css"
-import CardPilares from "../components/cards_pilares.jsx";
+import CardPilares from "../components/Cards_pilares.jsx";
 import CardsMenores from "../components/CardsMenores.jsx";
 import Footer from "../components/Footer.jsx";
 import Accordion from "../components/Acordeon.jsx";
