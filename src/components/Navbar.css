@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+nav li{
+    @apply  font-medium transition-all duration-200 ease-in-out hover:text-[#b10606] focus:text-[#7c0606]
+}
+
+.menu-mobile li{
+    @apply p-4
+}
